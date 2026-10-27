@@ -375,8 +375,8 @@ select {
     -webkit-rtl-ordering: -internal-auto-base(logical, inherit);
     background-color: -internal-auto-base(Field, transparent);
     cursor: -internal-auto-base(default, inherit);
-    min-inline-size: -internal-auto-base(auto, calc-size(auto, max(size, 24px)));
-    min-block-size: -internal-auto-base(auto, calc-size(auto, max(size, 24px, 1lh)));
+    /*min-inline-size: -internal-auto-base(auto, calc-size(auto, max(size, 24px)));
+    min-block-size: -internal-auto-base(auto, calc-size(auto, max(size, 24px, 1lh)));*/
     user-select: -internal-auto-base(auto, none);
     margin: 0em 0em 0em 0em;
     font: -internal-auto-base(-webkit-small-control, inherit);
